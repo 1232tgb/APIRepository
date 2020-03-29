@@ -7,7 +7,6 @@ namespace MyAPI.Repositories.Interface
 {
     public interface IRepository<T>
     {
-
         IEnumerable<T> ObterTodos();
         T Obter(int id);
         void Cadastrar(T item);

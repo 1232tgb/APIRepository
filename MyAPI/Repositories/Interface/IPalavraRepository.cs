@@ -11,7 +11,7 @@ namespace MyAPI.Repositories.Interface
     //testar depois se realmente precisa herdar de IRepository
     public interface IPalavraRepository : IRepository<Palavra>
     {
-        //verificar se o [FromQuery] funciona a partir daí ou se tem que jogar
+       
         IEnumerable<Palavra> ObterTodasCondicao([FromQuery]UrlQuery query);
         
         Palavra GetById(int id);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\THIAGO\\Desktop\\ProjetosTestes\\API\\API\\MyAPI\\MyAPI.csproj": {}
+    "C:\\Users\\THIAGO\\Desktop\\GitPasta\\APIRepository\\MyAPI\\MyAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\THIAGO\\Desktop\\ProjetosTestes\\API\\API\\MyAPI\\MyAPI.csproj": {
+    "C:\\Users\\THIAGO\\Desktop\\GitPasta\\APIRepository\\MyAPI\\MyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THIAGO\\Desktop\\ProjetosTestes\\API\\API\\MyAPI\\MyAPI.csproj",
+        "projectUniqueName": "C:\\Users\\THIAGO\\Desktop\\GitPasta\\APIRepository\\MyAPI\\MyAPI.csproj",
         "projectName": "MyAPI",
-        "projectPath": "C:\\Users\\THIAGO\\Desktop\\ProjetosTestes\\API\\API\\MyAPI\\MyAPI.csproj",
+        "projectPath": "C:\\Users\\THIAGO\\Desktop\\GitPasta\\APIRepository\\MyAPI\\MyAPI.csproj",
         "packagesPath": "C:\\Users\\THIAGO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THIAGO\\Desktop\\ProjetosTestes\\API\\API\\MyAPI\\obj\\",
+        "outputPath": "C:\\Users\\THIAGO\\Desktop\\GitPasta\\APIRepository\\MyAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
