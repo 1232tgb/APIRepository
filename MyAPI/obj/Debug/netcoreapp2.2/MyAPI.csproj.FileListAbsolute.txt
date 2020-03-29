@@ -1,0 +1,16 @@
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.RazorAssemblyInfo.cache
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.RazorAssemblyInfo.cs
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.AssemblyInfoInputs.cache
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.AssemblyInfo.cs
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.deps.json
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.runtimeconfig.json
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.runtimeconfig.dev.json
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.dll
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.pdb
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.dll
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.pdb
+C:\Users\THIAGO\Desktop\ProjetosTestes\API\API\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.csprojAssemblyReference.cache
