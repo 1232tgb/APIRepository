@@ -10,7 +10,6 @@ namespace MyAPI.Repositories.Interface
 {
     public interface IPalavraRepository : IRepository<Palavra>
     {
-       
         IEnumerable<Palavra> ObterTodasCondicao([FromQuery]UrlQuery query);
         
         Palavra GetById(int id);

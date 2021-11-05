@@ -35,7 +35,7 @@ namespace MyAPI
                 .MapRoute(name: "default", template: "{controller=Palavras}/{action=ObterTodas}")
                 .MapRoute(name: "api", template: "api/{controller}/{action}/{id?}");
             });
-            //app.UseMvc();
+            
         }
     }
 }
